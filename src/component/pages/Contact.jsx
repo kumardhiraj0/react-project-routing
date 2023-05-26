@@ -20,7 +20,10 @@ const [flag , setFlag] = useState(false);
     }
     const formSubmit = (e)=>{
         e.preventDefault();
-        setFlag(true)
+        if(data.fullname && data.phone && data.email && data.message){
+            setFlag(true)
+        }
+        
        setData({ fullname: '',phone: '', email: '', message: '' });
 
     }
