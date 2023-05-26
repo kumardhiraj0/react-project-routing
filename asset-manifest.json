@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-project-routing/static/css/main.4849b7e8.css",
+    "main.js": "/react-project-routing/static/js/main.3dc7bb85.js",
+    "static/media/Marketing.jpg": "/react-project-routing/static/media/Marketing.a6895c99c3ec4565914f.jpg",
+    "static/media/app.avif": "/react-project-routing/static/media/app.ec9f94a67eac87c7ed87.avif",
+    "static/media/android.png": "/react-project-routing/static/media/android.bf21d477ae77c874a6a9.png",
+    "static/media/digital.jpg": "/react-project-routing/static/media/digital.7793edbd22589b30360a.jpg",
+    "static/media/web1.jpg": "/react-project-routing/static/media/web1.ca55a691bb9f2b540508.jpg",
+    "static/media/about1.avif": "/react-project-routing/static/media/about1.12ba51ea2275a3d5a864.avif",
+    "static/media/home2.jpeg": "/react-project-routing/static/media/home2.8cd078d078a92961d3d7.jpeg",
+    "static/media/service.avif": "/react-project-routing/static/media/service.9ebfd6c1d27a39e59fab.avif",
+    "index.html": "/react-project-routing/index.html",
+    "main.4849b7e8.css.map": "/react-project-routing/static/css/main.4849b7e8.css.map",
+    "main.3dc7bb85.js.map": "/react-project-routing/static/js/main.3dc7bb85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4849b7e8.css",
+    "static/js/main.3dc7bb85.js"
+  ]
+}
